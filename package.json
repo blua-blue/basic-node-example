@@ -1,0 +1,35 @@
+{
+  "name": "basic-node-example",
+  "version": "1.0.0",
+  "description": "Rudimentary POC of a blua.blue integration using express",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blua-blue/basic-node-example.git"
+  },
+  "keywords": [
+    "express",
+    "blua.blue",
+    "axios",
+    "rest",
+    "api",
+    "headless",
+    "cms"
+  ],
+  "author": "neoan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blua-blue/basic-node-example/issues"
+  },
+  "homepage": "https://github.com/blua-blue/basic-node-example#readme"
+}
